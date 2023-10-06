@@ -69,10 +69,10 @@ spacing.fixed.px: 20
 
 -- lib.hero-ui-base-text-wrapper:
 firstTitle: I'm
-secondTitle: YOUR_NAME,
+secondTitle: HEMANI CHAUHAN,
 
 -- lib.hero-ui-base-text-wrapper:
-firstTitle: frontend
+firstTitle: Python
 secondTitle: developer
 
 -- lib.hero-ui-base-text-wrapper:
@@ -91,7 +91,7 @@ spacing.fixed.px: 10
 
 -- button.secondary:
 title: Hire me
-link: mailto:YOUR_EMAIL_ADDRESS
+link: mailto:hemani.chauhan19@gmail.com
 
 -- button.primary:
 title: Schedule a Meeting
@@ -108,7 +108,7 @@ isNewTab: true
 spacing.fixed.px: 10
 
 -- social.social-button-wrapper:
-link: https://linkedin.com/in/YOUR_LINKEDIN_USERNAME
+link: https://www.linkedin.com/in/hemani-chauhan-460719247/
 image: $assets.files.images.linkedin.png
 
 -- social.social-button-wrapper:
@@ -170,7 +170,7 @@ spacing.fixed.px: 20
 
 -- lib.hero-ui-base-text-wrapper:
 firstTitle: I'm
-secondTitle: YOUR_NAME,
+secondTitle: YOUR,
 
 -- lib.hero-ui-base-text-wrapper:
 firstTitle: frontend
